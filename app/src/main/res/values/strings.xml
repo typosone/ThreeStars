@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">お料理の友</string>
+    <string name="cuisine">料理名</string>
+    <string name="select_pic">画像選択</string>
+    <string name="stars">星</string>
+    <string name="tweet">つぶやく</string>
+    <string name="consumer_key">fwkJYqFdAwvKniXQ2rnePapxh</string>
+    <string name="consumer_secret">5RT4XrYh9FaP9wY6TgNXksHOjypEiV9xOPxyKz9yev0bjq39Ay</string>
+
+</resources>
